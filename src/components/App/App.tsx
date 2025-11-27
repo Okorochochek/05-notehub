@@ -8,7 +8,7 @@ import { fetchNotes } from "../../services/noteService";
 import SearchBox from "../SearchBox/SearchBox";
 import Pagination from "../Pagination/Pagination";
 import NoteList from "../NoteList/NoteList";
-import Modal from "../Modal/modal";
+import Modal from "../Modal/Modal";
 import NoteForm from "../NoteForm/NoteForm";
 
 export default function App() {
